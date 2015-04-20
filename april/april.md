@@ -57,7 +57,7 @@ Break
 
 ---
 
-![left 300%](nunl.pdf)
+![left 70%](nu-logo.eps)
 
 # Apple Watch *hackathon*
 ## 6th of May, 10:00
