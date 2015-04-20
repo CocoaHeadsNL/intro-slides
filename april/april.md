@@ -2,10 +2,6 @@
 
 ---
 
-#Welcome
-
----
-
 #Sponsors
 ![inline](minddistrict.eps) ![inline 35%](blendle.eps)
 ![inline](../egeniq.pdf) ![inline 300%](../xebia.pdf)
