@@ -5,37 +5,49 @@
 ---
 
 #Sponsors
-![inline](../egeniq.pdf) ![inline 300%](../xebia.pdf)
 
-^I want to start by thanking our sponsors
+![inline fit](../xebia.pdf)
 
-^Location, snacks and drinks are sponsored by Xebia. Xebia is now looking for Mobile Full Stack Developers. Talk to the Xebians available to discus what we mean by that.
+^First of all, I want to start by thanking our sponsors
 
-^If you're interested in working for them talk to Lammert or Femke.
-
----
-
-![inline](../xebia.pdf)
+^For this meetup, location, snacks and drinks are sponsored by Xebia. Xebia is looking for Mobile Full Stack Developers. If you want to know what they mean by that, or if you're interested in working for them, go talk to Lammert or Femke.
 
 ---
 
-#XebiCon
-![inline 70%](xebicon-logo.png)
+#Sponsors
 
-- June 4th
-- Very few tickets remaining
-- http://xebicon.nl
+![inline fit](../xebia.pdf)
+
+![inline fit left](../egeniq.pdf)
+
+^Egeniq has been a regular sponsor for some time now, but today we can announce that we have found a third regular sponsor
+
+---
+
+#Sponsors
+
+![inline fit](../xebia.pdf)
+
+![inline fit left](../egeniq.pdf) ![inline fit right](../framerstudio.png)
+
+^Framer Studio. Koen Bok an his team make awesome Mac App, if you haven't yet, go check it out.
+
+^They are also looking for developers to join their team, so go talk to Jonas, and soon a vacancy will be posted to our job board.
 
 ---
 
 #Agenda
-- *Daniel Steinberg* Playing by a New Set of Rules - Methodologies, Mathematics, and the Metalinguistic Implications of Swift
+- Xebia
 
-![inline fit center](./Daniel-Steinberg.png)
+- **Daniel Steinberg**
 
 - *Xebia sponsored drinks in the bar*
 
-^Daniel will give a talk about (check with Daniel)
+^First Lammert from Xebia will tell you something about Xebia and what they do
+
+^Then Daniel will give his talk 'Playing by a New Set of Rules'
+
+^Afterwards there will be an open bar, sponsored by Xebia
 
 ---
 
@@ -71,13 +83,13 @@
 #Jobs
 ##http://jobs.cocoaheads.nl
 
-^Our jobboard is growing rapidly with new opportunities for you guys, go have a look, there are some really great vacancies available
+^Our jobboard is growing rapidly with new opportunities for you guys, go have a look, there are some really great vacancies available, and some more will be added soon.
 
 ---
 
 #Coming up
 
-^So coming up, we have a lot of things scheduled in the upcoming months
+^So coming up, we have even more things scheduled in the upcoming months
 
 ---
 
@@ -93,7 +105,7 @@
 
 > Details on meetup.com
 
-^Second, NU.nl has invited us for an Apple Watch hackathon on the 6th of May
+^NU.nl has invited us for an Apple Watch hackathon on the 6th of May
 
 ^It's an whole day event starting at 10 o'clock at Sanoma in Hoofddorp, food and drinks will be provided
 
@@ -113,3 +125,7 @@
 ^Finally our next regular meetup will be at Backbase in Amsterdam, where Jorge Ortiz will give a talk about Core Data in Modern Times
 
 ^All of these events are also on meetup, so go check it out and RSVP!
+
+---
+
+^And now Lammert Westerhoff will fill you in on what Xebia is doing
