@@ -7,17 +7,17 @@
 ---
 
 #sponsors
-![inline 700%](booking.png)
-![inline fit left](../egeniq.pdf) ![inline fit right](../xebia.jdf)
+![inline fit](backbase.jpg)
+![inline fit left](../egeniq.pdf) ![inline fit right](../xebia.pdf)
 
 ---
 
 #Agenda
 - Some announcements
-- Booking.com
-- Data reporting by Marius de Reus
+- Backbase
+- Core Data in Modern Times by Jorge Ortiz
 - Break
-- Aleksandr Gusev iOS developer at Booking.com
+- Swift, why I won’t go back to Objective-C by Robert van Loghem
 
 ---
 
@@ -44,10 +44,10 @@ https://facebook.com/cocoaheadsnl
 
 ---
 
-#Next meetup with Blendle
-- Utrecht Media Arena
-- 21st of april
-- 19:00 till 21:00
+#Next meetup is WWDC day
+- Keynote party and viewing at the App Academy
+- 8th of june
+- 19:00 till a bit after the Keynote's over
 - Details on meetup.com
 
 ---
