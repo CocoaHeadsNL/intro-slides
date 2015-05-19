@@ -7,7 +7,7 @@
 ---
 
 #sponsors
-![inline fit](backbase.jpg)
+![inline fit](backbase.eps)
 ![inline fit left](../egeniq.pdf) ![inline fit right](../xebia.pdf)
 
 ---
