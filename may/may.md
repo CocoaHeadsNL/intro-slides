@@ -23,8 +23,7 @@
 
 #Let's stay connected
 - Slack team:
-http://cocoaheadsnl.slack.com
-(Ask Bart, Niels or Jeroen for an invite)
+http://slack.cocoaheads.nl (Self serve yourself an invite)
 
 - LinkedIN group:
 https://www.linkedin.com/groups/CocoaHeadsNL-7476559
@@ -51,3 +50,6 @@ https://facebook.com/cocoaheadsnl
 - Details on meetup.com
 
 ---
+
+![fit](../CocoaHeadsNL.pdf)
+
