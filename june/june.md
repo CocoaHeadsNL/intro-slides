@@ -7,7 +7,7 @@
 ---
 
 #sponsors
-![inline 100%](TheAppAcademy.png)
+![inline fit](AppAcademy_logo.pdf)
 ![inline fit left](../egeniq.pdf) ![inline fit right](../xebia.pdf)
 
 ---
