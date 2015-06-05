@@ -20,14 +20,13 @@
 ---
 
 #Let's stay connected
-- Slack team:
+- ![inline](../slack_cmyk.eps)
 http://cocoaheadsnl.slack.com
-(Ask Bart, Niels or Jeroen for an invite)
 
-- LinkedIN group:
+- ![inline](../LinkedIn_logo.eps)
 https://www.linkedin.com/groups/CocoaHeadsNL-7476559
 
-- Facebook
+- ![inline](../Facebook_logo.png) Facebook
 https://facebook.com/cocoaheadsnl
 
 ---
