@@ -7,8 +7,8 @@
 ---
 
 #sponsors
-![inline fit](AppAcademy_logo.pdf)
-![inline fit left](../egeniq.pdf) ![inline fit right](../xebia.pdf)
+![inline fit](../Logos/AppAcademy_logo.pdf)
+![inline fit left](../Logos/egeniq.pdf) ![inline fit right](../Logos/xebia.pdf)![inline fit right](../Logos/framerstudio.png)
 
 ---
 
@@ -20,13 +20,13 @@
 ---
 
 #Let's stay connected
-- ![inline](../slack_cmyk.eps)
+- ![inline](../Logos/slack_cmyk.eps)
 http://cocoaheadsnl.slack.com
 
-- ![inline](../LinkedIn_logo.eps)
+- ![inline](../Logos/LinkedIn_logo.eps)
 https://www.linkedin.com/groups/CocoaHeadsNL-7476559
 
-- ![inline](../Facebook_logo.png) Facebook
+- ![inline](../Logos/Facebook_logo.png) Facebook
 https://facebook.com/cocoaheadsnl
 
 ---
