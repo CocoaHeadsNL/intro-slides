@@ -14,8 +14,8 @@
 
 #Agenda
 - Some announcements
-- Noodlewerk
-- Keynote
+- Bruno from Noodlewerk
+- Lammert from Xebia
 
 ---
 
@@ -32,8 +32,6 @@ https://facebook.com/cocoaheadsnl
 
 - ![inline](../Logos/LinkedIn_logo.eps)
 https://www.linkedin.com/groups/CocoaHeadsNL-7476559
-
-
 
 ---
 
