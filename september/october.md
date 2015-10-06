@@ -7,7 +7,6 @@
 ---
 
 #sponsors
-![inline fit](../Logos/highstreet.png)
 ![inline fit left](../Logos/egeniq.pdf) ![inline fit right](../Logos/xebia.pdf)![inline fit right](../Logos/framerstudio.png)
 
 ---
