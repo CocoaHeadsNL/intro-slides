@@ -55,9 +55,13 @@ https://www.linkedin.com/groups/CocoaHeadsNL-7476559
 
 ---
 
-#one more thing..
-![inline fit center](../Logos/do-ios400x400.png) 
-#some code
+![fit](twitterLargeCardTicket3.jpg)
+
+---
+
+#Discount code
+
+![inline fit](twitterLargeCardTicket3.jpg)
 
 ---
 
