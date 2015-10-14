@@ -37,6 +37,11 @@
 
 ---
 
+#About KnowledgeMile
+![inline fit center](knowledge.jpeg) 
+
+—
+
 ![fit](../Logos/CocoaHeadsNL.pdf)
 
 ---
