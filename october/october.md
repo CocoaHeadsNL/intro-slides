@@ -18,7 +18,7 @@
 ---
 
 #event sponsors
-![inline fit left](../Logos/ACICE.png)![inline fit left](../Logos/KnowledgeMile_Logo.png) 
+![inline fit left](../Logos/ACICE.png)![inline fit left](../Logos/KnowledgeMile_Logo.png)
 
 ---
 
@@ -33,7 +33,7 @@
 ---
 
 #About KnowledgeMile
-![inline fit left](../Logos/ACICE.png)![inline fit left](../Logos/KnowledgeMile_Logo.png) 
+![inline fit left](../Logos/ACICE.png)![inline fit left](../Logos/KnowledgeMile_Logo.png)
 
 ---
 
@@ -52,8 +52,8 @@ http://slack.cocoaheads.nl
 - ![inline](../Logos/Facebook_logo.png) Facebook
 https://facebook.com/cocoaheadsnl
 
-- ![inline](../Logos/LinkedIn_logo.eps)
-https://www.linkedin.com/groups/CocoaHeadsNL-7476559
+- ![inline](../Logos/meetup.png) Meetup
+http://www.meetup.com/CocoaHeadsNL/
 
 ---
 
