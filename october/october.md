@@ -7,6 +7,8 @@
 #First time here?
 ![inline fit center](../Logos/app.png)
 
+### http://bit.ly/cocoaheadsnl
+#### https://github.com/CocoaHeadsNL/CocoaHeadsNL-iOS
 ---
 
 #sponsors
