@@ -1,5 +1,4 @@
 ![inline fit](../Logos/CocoaHeadsNL.pdf)
-#Welcome
 
 
 ---
