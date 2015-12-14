@@ -11,13 +11,6 @@
 
 ---
 
-#Agenda
-- Announcements
-- Gijs van Klooster from Searcle
-- Drew McCormack from from the Mental Faculty
-
----
-
 #Let's keep in touch!
 
 - ![inline](../Logos/appstore.png) CocoaHeadsNL
