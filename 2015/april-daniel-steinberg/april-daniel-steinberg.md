@@ -1,4 +1,4 @@
-![fit](../CocoaHeadsNL.pdf)
+![fit](../../Logos/CocoaHeadsNL.pdf)
 
 ^Welcome everybody, we've got a great evening planned
 
@@ -6,7 +6,7 @@
 
 #Sponsors
 
-![inline fit](../xebia.pdf)
+![inline fit](../../Logos/xebia.pdf)
 
 ^First of all, I want to start by thanking our sponsors
 
@@ -16,9 +16,9 @@
 
 #Sponsors
 
-![inline fit](../xebia.pdf)
+![inline fit](../../Logos/xebia.pdf)
 
-![inline fit left](../egeniq.pdf)
+![inline fit left](../../Logos/egeniq.pdf)
 
 ^Egeniq has been a regular sponsor for some time now, but today we can announce that we have found a third regular sponsor
 
@@ -26,9 +26,9 @@
 
 #Sponsors
 
-![inline fit](../xebia.pdf)
+![inline fit](../../Logos/xebia.pdf)
 
-![inline fit left](../egeniq.pdf) ![inline fit right](../framerstudio.png)
+![inline fit left](../../Logos/egeniq.pdf) ![inline fit right](../../Logos/framerstudio.png)
 
 ^Framer Studio. Koen Bok an his team make awesome Mac App, if you haven't yet, go check it out.
 

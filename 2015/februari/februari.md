@@ -1,4 +1,4 @@
-![fit](../CocoaHeadsNL.pdf)
+![fit](../../Logos/CocoaHeadsNL.pdf)
 
 ---
 

@@ -1,4 +1,4 @@
-![fit](../Logos/CocoaHeadsNL.pdf)
+![fit](../../Logos/CocoaHeadsNL.pdf)
 
 ---
 
@@ -7,8 +7,8 @@
 ---
 
 #sponsors
-![inline fit](../Logos/noodlewerk.png)
-![inline fit left](../Logos/egeniq.pdf) ![inline fit right](../Logos/xebia.pdf)![inline fit right](../Logos/framerstudio.png)
+![inline fit](../../Logos/noodlewerk.png)
+![inline fit left](../../Logos/egeniq.pdf) ![inline fit right](../../Logos/xebia.pdf)![inline fit right](../../Logos/framerstudio.png)
 
 ---
 
@@ -21,16 +21,16 @@
 
 #Let's keep in touch!
 
-- ![inline](../Logos/appstore.png) CocoaHeadsNL
+- ![inline](../../Logos/appstore.png) CocoaHeadsNL
 http://app.cocoaheads.nl
 
-- ![inline](../Logos/slack_cmyk.eps)
+- ![inline](../../Logos/slack_cmyk.eps)
 http://slack.cocoaheads.nl
 
-- ![inline](../Logos/Facebook_logo.png) Facebook
+- ![inline](../../Logos/Facebook_logo.png) Facebook
 https://facebook.com/cocoaheadsnl
 
-- ![inline](../Logos/LinkedIn_logo.eps)
+- ![inline](../../Logos/LinkedIn_logo.eps)
 https://www.linkedin.com/groups/CocoaHeadsNL-7476559
 
 ---
@@ -53,4 +53,4 @@ https://www.linkedin.com/groups/CocoaHeadsNL-7476559
 
 ---
 
-![fit](../Logos/CocoaHeadsNL.pdf)
+![fit](../../Logos/CocoaHeadsNL.pdf)

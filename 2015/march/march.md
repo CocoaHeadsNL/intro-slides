@@ -1,4 +1,4 @@
-![fit](../CocoaHeadsNL.pdf)
+![fit](../../Logos/CocoaHeadsNL.pdf)
 
 ---
 
@@ -8,7 +8,7 @@
 
 #sponsors
 ![inline 700%](booking.png)
-![inline fit left](../egeniq.pdf) ![inline fit right](../xebia.jdf)
+![inline fit left](../../Logos/egeniq.pdf) ![inline fit right](../../Logos/xebia.pdf)
 
 ---
 

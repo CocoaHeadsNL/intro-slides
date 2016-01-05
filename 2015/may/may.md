@@ -1,4 +1,4 @@
-![fit](../CocoaHeadsNL.pdf)
+![fit](../../Logos/CocoaHeadsNL.pdf)
 
 ---
 
@@ -8,7 +8,7 @@
 
 #sponsors
 ![inline fit](backbase.eps)
-![inline fit left](../egeniq.pdf) ![inline fit right](../xebia.pdf)
+![inline fit left](../../Logos/egeniq.pdf) ![inline fit right](../../Logos/xebia.pdf)
 
 ---
 
@@ -51,5 +51,5 @@ https://facebook.com/cocoaheadsnl
 
 ---
 
-![fit](../CocoaHeadsNL.pdf)
+![fit](../../Logos/CocoaHeadsNL.pdf)
 

@@ -1,25 +1,25 @@
-![fit](../Logos/CocoaHeadsNL.pdf)
+![fit](../../Logos/CocoaHeadsNL.pdf)
 
 ---
-![inline fit center](../Logos/SearcleLogo.png)
+![inline fit center](../../Logos/SearcleLogo.png)
 #Welcome
 
 ---
 
 #sponsors
-![inline fit left](../Logos/egeniq.pdf) ![inline fit right](../Logos/xebia.pdf)![inline fit right](../Logos/framerstudio.png)
+![inline fit left](../../Logos/egeniq.pdf) ![inline fit right](../../Logos/xebia.pdf)![inline fit right](../../Logos/framerstudio.png)
 
 ---
 
 #Let's keep in touch!
 
-- ![inline](../Logos/appstore.png) CocoaHeadsNL
+- ![inline](../../Logos/appstore.png) CocoaHeadsNL
 http://bit.ly/cocoaheadsnl
 
-- ![inline](../Logos/slack_cmyk.eps)
+- ![inline](../../Logos/slack_cmyk.eps)
 http://slack.cocoaheads.nl
 
-- ![inline](../Logos/Facebook_logo.png) Facebook
+- ![inline](../../Logos/Facebook_logo.png) Facebook
 https://facebook.com/cocoaheadsnl
 
 ---
@@ -44,4 +44,4 @@ https://facebook.com/cocoaheadsnl
 
 ---
 
-![fit](../Logos/CocoaHeadsNL.pdf)
+![fit](../../Logos/CocoaHeadsNL.pdf)

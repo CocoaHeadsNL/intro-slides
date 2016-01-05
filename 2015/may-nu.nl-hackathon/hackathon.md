@@ -1,13 +1,13 @@
 autoscale: true
 
-![inline left fit](nu-logo.eps) ![inline right fit](../CocoaHeadsNL.pdf)
+![inline left fit](nu-logo.eps) ![inline right fit](../../Logos/CocoaHeadsNL.pdf)
 
 ##Have an idea for a hackathon project?
 # Come and tell us now!
 
 ---
 
-![fit](../CocoaHeadsNL.pdf)
+![fit](../../Logos/CocoaHeadsNL.pdf)
 
 ^Welcome everybody, I'm Niels from CocoaHeads Netherlands and we've got a great ahead of us!
 
@@ -17,9 +17,9 @@ autoscale: true
 
 #Sponsors
 
-![inline fit](../xebia.pdf)
+![inline fit](../../Logos/xebia.pdf)
 
-![inline fit left](../egeniq.pdf) ![inline fit right](../framerstudio.png)
+![inline fit left](../../Logos/egeniq.pdf) ![inline fit right](../../Logos/framerstudio.png)
 
 ^Our regular sponsors are Xebia, Egeniq and, recently added: Framer Studio.
 

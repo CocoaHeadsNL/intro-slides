@@ -1,4 +1,4 @@
-![fit](../CocoaHeadsNL.pdf)
+![fit](../../Logos/CocoaHeadsNL.pdf)
 
 ^Welcome everybody, we've got a great evening planned
 
@@ -6,7 +6,7 @@
 
 #Sponsors
 ![inline](minddistrict.eps) ![inline 35%](blendle.eps)
-![inline](../egeniq.pdf) ![inline 300%](../xebia.pdf)
+![inline](../../Logos/egeniq.pdf) ![inline 300%](../../Logos/xebia.pdf)
 
 ^I want to start by thanking our sponsors
 
@@ -75,7 +75,7 @@ Break
 ^So coming up, we have a lot of things scheduled in the upcoming months
 
 ---
-![right 300%](../xebia.pdf)
+![right 300%](../../Logos/xebia.pdf)
 
 # Extra meetup
 ## 29th of April, 19:00
