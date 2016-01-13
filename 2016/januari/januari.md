@@ -37,7 +37,27 @@ https://facebook.com/cocoaheadsnl
 ---
 
 #Jobs
-#New jobs from sponsors:
+
+---
+
+![inline fit](../../Logos/q42.png)
+
+---
+
+
+![inline fit](../../Logos/bookarang.png)
+
+---
+
+![inline fit](../../Logos/egeniq.pdf)
+
+---
+
+![inline fit](../../Logos/TMC\ large.png)
+
+---
+
+#More jobs from sponsors:
 ##http://jobs.cocoaheads.nl
 ##http://bit.ly/cocoaheadsnl
 
