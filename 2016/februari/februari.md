@@ -41,6 +41,19 @@ https://facebook.com/cocoaheadsnl
 
 ---
 
+![inline fit 90%](../../Logos/mdevcon2016.png)
+
+Friday, March 18, 2016
+More info on
+- http://mdevcon.com
+- http://meetup.com/cocoaheadsnl
+
+Discount code: **cocoaheadsnl16**
+
+#*Win a free ticket tonight!*
+
+---
+
 #More jobs from sponsors:
 ##http://jobs.cocoaheads.nl
 ##http://bit.ly/cocoaheadsnl
