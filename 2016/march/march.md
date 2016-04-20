@@ -57,6 +57,7 @@ https://facebook.com/cocoaheadsnl
 
 ### € 35,-
 #### http://nscodernight-2016.eventbrite.com
+#### http://meetup.com/cocoaheadsnl
 
 ---
 
