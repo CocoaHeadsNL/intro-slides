@@ -8,7 +8,7 @@
 
 #sponsors
 ![inline fit](../../Logos/egeniq.pdf) ![inline fit](../../Logos/xebia.pdf)
-![inline fit](../../Logos/framerstudio.png) ![inline fit ](../../Logos/ING_Logo_RGB_A6.eps)
+![inline fit](../../Logos/framer.pdf) ![inline fit ](../../Logos/ING_Logo_RGB_A6.eps)
 
 ---
 
@@ -36,7 +36,7 @@ https://facebook.com/cocoaheadsnl
 
 ---
 
-#Next meetup: WWDC @ 
+#Next meetup: WWDC @
 ![inline fit](../../Logos/TheCapitalsLS.png)
 
 - 13th of June
