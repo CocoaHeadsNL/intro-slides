@@ -1,10 +1,6 @@
 ![fit](../../Logos/CocoaHeadsNL.pdf)
 
 ---
-![inline fit](../../Logos/thecapitals.png)
-#Welcome
-
----
 
 #sponsors
 ![inline fit](../../Logos/xebia.pdf)![inline fit](../../Logos/framer.pdf)  ![inline fit](../../Logos/egeniq.pdf)  
@@ -63,6 +59,11 @@ https://facebook.com/cocoaheadsnl
 - Jeroen Leenarts @leenarts
 - Niels van Hoorn @nvh
 - @barthoffman
+
+---
+
+![inline fit](../../Logos/thecapitals.png)
+#Welcome
 
 ---
 
