@@ -1,3 +1,4 @@
+theme: Plain Jane, 0
 ![fit](../../Logos/CocoaHeadsNL.pdf)
 
 ---
