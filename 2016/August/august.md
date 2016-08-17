@@ -19,7 +19,7 @@ theme: Plain Jane, 0
 
 #sponsors
 ![inline fit](../../Logos/xebia.pdf) ![inline fit](../../Logos/egeniq.pdf)  
-![inline fit](../../Logos/thecapitals.png)![inline fit ](../../Logos/ING_Logo_RGB_A6.eps)
+![inline fit](../../Logos/theCapitals.pdf) ![inline fit ](../../Logos/ING_Logo_RGB_A6.eps)
 
 
 ---
