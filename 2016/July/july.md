@@ -13,9 +13,10 @@
 
 
 18.00 - 19.00 dinner
-19.00 - 19.45 first session
-19.45 - 20.15 break
-20.15 - 21.00 second session
+19.00 - 19.10 intro - Bart Robben
+19.10 - 19.55 first session - Lars Lockefeer
+19.55 - 20.15 break
+20.15 - 21.00 second session - Lammert Westerhof
 21.00 - 21.30 finish 
 
 
