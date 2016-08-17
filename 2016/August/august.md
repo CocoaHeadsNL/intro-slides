@@ -18,9 +18,9 @@ theme: Plain Jane, 0
 ---
 
 #sponsors
-![inline fit](../../Logos/xebia.pdf) ![inline fit](../../Logos/egeniq.pdf)  
-![inline fit](../../Logos/theCapitals.pdf) ![inline fit ](../../Logos/ING_Logo_RGB_A6.eps)
 
+![inline fit](../../Logos/theCapitals.pdf) ![inline fit](../../Logos/ING_Logo_RGB_A6.eps)
+![inline fit](../../Logos/egeniq.pdf) ![inline fit](../../Logos/xebia.pdf)
 
 ---
 
@@ -49,7 +49,7 @@ theme: Plain Jane, 0
 ---
 
 #Next meetup: 
-![fit](../../Logos/CocoaHeadsNL.pdf)![inline fit](../../Logos/m2mobi.jpg)
+![fit](../../Logos/CocoaHeadsNL.pdf) ![inline fit](../../Logos/m2mobi.jpg)
 
 - 24th of August
 - start wil be at 18.00
@@ -58,7 +58,7 @@ theme: Plain Jane, 0
 ---
 
 #New meetup: 
-![fit](../../Logos/CocoaHeadsNL.pdf)![inline fit](../../Logos/adyenRetina.png)
+![fit](../../Logos/CocoaHeadsNL.pdf) ![inline fit](../../Logos/adyenRetina.png)
 
 - 21st of September
 - start wil be at 18.00
