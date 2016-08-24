@@ -13,7 +13,7 @@ theme: Plain Jane, 0
 
 ![fit](../../Images/1.jpg)![inline fit](../../Images/2.jpg)
 
-- CocoaHeads NL is a monthly meetups of iOS and Mac developers in the Netherlands and part of the international CocoaHeads meetups. We discuss anything Apple, Cocoa, Objective-C, Swift and relevant technologies.
+- CocoaHeads NL is a monthly meetup of iOS and Mac developers in the Netherlands and part of the international CocoaHeads meetups. We discuss anything Apple, Cocoa, Objective-C, Swift and relevant technologies.
 
 ---
 
@@ -72,7 +72,7 @@ theme: Plain Jane, 0
 - @leenarts (Jeroen Leenarts)
 - @nvh (Niels van Hoorn)
 - @barthoffman
-- @sidneydekoning
+- @sidneydekoning / @iheartswiftlang
 
 ---
 
