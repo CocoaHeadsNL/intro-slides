@@ -27,10 +27,16 @@ theme: Plain Jane, 0
 
 ---
 
-![inline](../../Logos/do_ios_logo_2016.png)
+![inline 500%](../../Logos/do-iOS16.eps)
 
-#Conference Nov. 15 / Training day Nov. 16 / CFP open till Sept. 12
-###Currently early bird tickets. We will get a CocoaHeadsNL code, but this is a better deal
+#Nov. 15 / Nov. 16 / CFP closes Sept. 12
+### We will get a CocoaHeadsNL code
+### But current early bird is a better deal
+
+---
+
+![inline 500%](../../Logos/do-iOS16.eps)
+
 ###http://do-ios.com 
 ###Twitter: @iosconf / #doios2016
 
