@@ -25,6 +25,16 @@ theme: Plain Jane, 0
 
 ---
 
+![inline](../../Logos/do_ios_logo_2016.png)
+
+#Conference Nov. 15 / Training day Nov. 16
+#CFP open till Sept. 12
+##Currently early bird tickets
+#### We will get a CocoaHeadsNL code, but this is a better deal
+##More info: http://do-ios.com
+
+---
+
 # Agenda for today
 
 
