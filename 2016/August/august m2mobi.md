@@ -13,16 +13,16 @@ theme: Plain Jane, 0
 
 ![fit](../../Images/1.jpg)![inline fit](../../Images/2.jpg)
 
-- CocoaHeads NL is a monthly meeting of iOS and Mac developers in the Netherlands and part of the international CocoaHeads meetups. We discuss anything Apple, Cocoa, Objective-C, Swift and relevant technologies.
+- CocoaHeads NL is a monthly meetups of iOS and Mac developers in the Netherlands and part of the international CocoaHeads meetups. We discuss anything Apple, Cocoa, Objective-C, Swift and relevant technologies.
 
 ---
 
 #sponsors
 
-![inline fit](../../Logos/theCapitals.pdf) 
-![inline fit](../../Logos/ING_Logo_RGB_A6.png)
-![inline fit](../../Logos/egeniq.pdf) 
-![inline fit](../../Logos/xebia.pdf)
+![inline fit 40%](../../Logos/theCapitals.pdf)
+![inline fit 100%](../../Logos/ING_Logo_RGB_A6.pdf)
+![inline fit 60%](../../Logos/egeniq.pdf)
+![inline fit 300%](../../Logos/xebia.pdf)
 
 
 ---
