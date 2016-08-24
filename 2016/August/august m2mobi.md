@@ -19,8 +19,10 @@ theme: Plain Jane, 0
 
 #sponsors
 
-![inline fit](../../Logos/theCapitals.pdf) ![inline fit](../../Logos/ING_Logo_RGB_A6.eps)
-![inline fit](../../Logos/egeniq.pdf) ![inline fit](../../Logos/xebia.pdf)
+![inline fit](../../Logos/theCapitals.pdf) 
+![inline fit](../../Logos/ING_Logo_RGB_A6.png)
+![inline fit](../../Logos/egeniq.pdf) 
+![inline fit](../../Logos/xebia.pdf)
 
 
 ---
@@ -28,7 +30,7 @@ theme: Plain Jane, 0
 ![inline](../../Logos/do_ios_logo_2016.png)
 
 #Conference Nov. 15 / Training day Nov. 16 / CFP open till Sept. 12
-###Currently early bird tickets We will get a CocoaHeadsNL code, but this is a better deal
+###Currently early bird tickets. We will get a CocoaHeadsNL code, but this is a better deal
 ###http://do-ios.com 
 ###Twitter: @iosconf / #doios2016
 
@@ -39,9 +41,9 @@ theme: Plain Jane, 0
 
 18.00 - 19.00 dinner
 19.00 - 19.10 intro 
-19.10 - 19.55 first session - Bas - Indoor positioning
+19.10 - 19.55 first session - Menno - MVVM
 19.55 - 20.15 break
-20.15 - 21.00 second session - Menno - MVVM
+20.15 - 21.00 second session - Bas - Indoor positioning
 21.00 - 21.30 finish 
 
 
