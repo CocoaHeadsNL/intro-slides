@@ -60,11 +60,11 @@ Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
 
 - **18.30 - 19:00** Welcome  
 
-- **19.00 - 19.45** Roadmap (@roadmaptravel) will talk about their challenges in automating the branding and release process for their own apps.
+- **19.00 - 19.45** Antoine van der Lee will talk about "Using Functional Reactive Programming in production with Buienradar."
 
 
 
-- **20:15 - 21:00** Sidney de Koning (@iheartswiftlang) will present about the most hated IDE in the world - Xcode. And he will show how to make a custom plugin for it.
+- **20:15 - 21:00** Eelco Lempsink will present about Practical Git for Small Teams
 
 - **21:00 - 21:30** Drinks
 
