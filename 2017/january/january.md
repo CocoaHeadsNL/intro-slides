@@ -27,7 +27,7 @@ theme: Plain Jane, 0
 
 ---
 
-#Next meetup: Ice Mobile
+#Next meetup: Xebia
 ![inline fit](../../Logos/xebia.pdf)
 
 - Februari 15
@@ -42,6 +42,7 @@ theme: Plain Jane, 0
 ![inline fit](../../Logos/dotswift.png)
 
 ##20% discount code
+27th of January, Paris
 
 Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
 
@@ -51,8 +52,8 @@ Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
 
 ![inline fit](../../Logos/appdevcon.jpg)
 
+March 16/17, Pathé Arena
 Ask us for discount code. (Slack / meetup / email)
-
 Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
 
 ---
@@ -60,14 +61,10 @@ Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
 # Agenda for today
 
 - **18.30 - 19:00** Welcome  
-
-- **19.00 - 19.30** Presentation by Styleshoots
-
-
-- **20:00 - 21:30** Alick Dykan will present about Working with type safe JSON models in Swift
-
-- **20:30** Drinks
-
+- **19.00 - 19.45** Presentation by Styleshoots
+- **19.45 - 20.00** Short break
+- **20:00 - 20:30/20:45** Alick Dykan will present 'Working with type-safe JSON models in Swift'
+- **20:30/20:45** Drinks and demo
 
 ---
 

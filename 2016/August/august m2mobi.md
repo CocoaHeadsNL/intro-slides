@@ -5,7 +5,7 @@ theme: Plain Jane, 0
 
 #A special thanks for todays sponsor: 
 
-![inline fit](../../Logos/m2mobi.jpg)
+![inline fit](../../Logos/M2.png)
 
 ---
 
@@ -77,7 +77,7 @@ theme: Plain Jane, 0
 ---
 
 
-![fit](../../Logos/m2mobi.jpg)
+![inline fit](../../Logos/M2.png)
 
 ---
 
