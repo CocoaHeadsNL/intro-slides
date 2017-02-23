@@ -34,10 +34,10 @@ theme: Plain Jane, 0
 #Next meetup: Highstreets
 ![inline](../../Logos/highstreetslogo.png)
 
-- March 15
-- Utrecht
-- Doors open 18:00
-- Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
+March 15
+Utrecht
+Doors open 18:00
+Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
 
 ---
 
