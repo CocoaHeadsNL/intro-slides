@@ -43,11 +43,10 @@ Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
 # Agenda for today
 
 - Welcome at Mobiquity
-- First talk:
+- First talk: Ata and Adriana: "How and why to Unit Test in Swift 3."
 - Short break
-- Second talk:
-- Drinks!
-
+- Second talk: Camo Vera (from Chile no less): "Saving time using Xcode Templates"
+- Drinks aka BEER!
 ---
 
 # New stuff
