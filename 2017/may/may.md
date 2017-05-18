@@ -47,6 +47,7 @@ Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
 - Short break
 - Second talk: Camo Vera (from Chile no less): "Saving time using Xcode Templates"
 - Drinks aka BEER!
+
 ---
 
 # New stuff
