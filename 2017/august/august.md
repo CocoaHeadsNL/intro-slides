@@ -40,9 +40,9 @@ theme: Plain Jane, 0
 
 ---
 
-#Next meetup: Work in Progress
+#Next meetup: BUX
 
-*Probably*:
+*Work in Progress, Probably*:
 September 20
 Amsterdam
 
