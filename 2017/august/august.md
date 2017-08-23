@@ -17,12 +17,6 @@ theme: Plain Jane, 0
 
 ---
 
-#A special thanks for today's sponsor:
-
-![inline](../../Logos/blendle.png)
-
----
-
 #sponsors
 
 ![inline fit 40%](../../Logos/theCapitals.pdf)![inline fit 60%](../../Logos/egeniq.pdf)
@@ -31,34 +25,40 @@ theme: Plain Jane, 0
 
 ---
 
-#Next meetup: Blendle FIXME
-![inline](../../Logos/blendle.png)
+#A special thanks for today's sponsor:
 
-August 23th
-HQ in Utrecht
-Doors open 18:00
-Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
+![inline](../../Logos/Blendle.pdf)
 
 ---
 
 # Agenda for today
 
-- Welcome at CocoaheadsNL
-- ...
+- **Thomas Visser**: Reactive programming from scratch
 - Break
-- ...
+- **Eric Scheers**: Building smooth and responsive UI with Texture
+- Drinks
+
+---
+
+#Next meetup: Work in Progress
+
+*Probably*:
+September 20
+Amsterdam
+
+Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
 
 ---
 
 # Reminder
 
 - In case of questions ask!
-- New jobs on the board
-- RSVP open now
+- Recorded session will be on our vimeo: vimeo.com/cocoaheadsnl
+- New jobs on the board: jobs.cocoaheads.nl
 
-See you at Blendle?
+See you next month?
 
 ---
 
-![inline](../../Logos/blendle.png)
+![fit](../../Logos/CocoaHeadsNL.pdf)
 
