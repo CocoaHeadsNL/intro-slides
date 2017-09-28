@@ -33,7 +33,7 @@ theme: Plain Jane, 0
 
 # Agenda for today
 
-- **Ian (Bux)**: Designing a real-time data application
+- **Ian Maia**: Designing a real-time data application
 _A case study on the stock market_
 - Break
 - **Tom Lokhorst**: Automatically updating UI
