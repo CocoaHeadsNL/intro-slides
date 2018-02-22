@@ -65,7 +65,7 @@ Discount code, 10% off? Ask on our Slack channel (Please only share with CocoaHe
 - Did you download the Apple TV App yet?: cocoaheads.nl/videos
 - New jobs on the board: cocoaheads.nl/jobs
 
-See you next week?
+See you next time!
 
 ---
 
