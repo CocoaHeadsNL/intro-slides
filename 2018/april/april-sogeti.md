@@ -33,9 +33,8 @@ theme: Plain Jane, 0
 
 # Agenda for today
 
-- **Marijn Schilling** Introduction Bakken en Baeck
-- **Robert-Hein Hooijmans**  Create a 3D game with Swift, in 2 days...
-- **Ellen Shapiro** Kotlin For Swift Developers
+- **Niels van Hoorn** ARKit in practice 
+- **Jurian de Cocq van Delwijnen**  Philips Hue, an enlightening experience!
 
 ---
 
