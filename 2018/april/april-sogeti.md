@@ -39,7 +39,7 @@ theme: Plain Jane, 0
 
 ---
 
-# Next meetup April 25: Sogeti
+# Next meetup May 2nd: Moneybird
 ![inline fit](../../Logos/moneybird.png)
 
 - May 2nd
