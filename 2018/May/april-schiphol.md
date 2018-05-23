@@ -40,7 +40,6 @@ theme: Plain Jane, 0
 
 # Next meetup June 4th: WWDC
 ![inline fit](../../Logos/Het_Parooltheater.jpg)
-![inline fit](../../Logos/Het_Parooltheater.jpg)
 
 - June 4th
 - Amsterdam
@@ -49,8 +48,9 @@ theme: Plain Jane, 0
 
 ---
 
-# New sponsor: Instabug
+# New sponsors: Instabug & TSH 
 ![inline fit](../../Logos/Hinstabug.jpg)
+![inline fit](../../Logos/TSH_vertical_logo_black.png)
 
 ---
 
