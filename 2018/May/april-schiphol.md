@@ -40,11 +40,17 @@ theme: Plain Jane, 0
 
 # Next meetup June 4th: WWDC
 ![inline fit](../../Logos/Het_Parooltheater.jpg)
+![inline fit](../../Logos/Het_Parooltheater.jpg)
 
 - June 4th
 - Amsterdam
 - Doors open 18.00
 - Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
+
+---
+
+# New sponsor: Instabug
+![inline fit](../../Logos/Hinstabug.jpg)
 
 ---
 
