@@ -20,37 +20,48 @@ theme: Plain Jane, 0
 #sponsors
 
 ![inline fit 60%](../../Logos/egeniq.pdf)![inline fit 60%](../../Logos/moneybird.png)
-![inline fit 300%](../../Logos/xebia.pdf)![inline fit 80%](../../Logos/logo-nyon_black_website.png)
+![inline fit 80%](../../Logos/logo-nyon_black_website.png)
 ![inline fit 70%](../../Logos/payconiq.pdf)![inline fit 200%](../../Logos/achmea.jpg)
 
 ---
 
 #A special thanks for today's sponsor:
 
-![inline](../../Logos/schiphol.jpg)
-
----
-
-# Agenda for today
-
-- **Diederik Hoogenboom** "Less is more", lessons learned while building the new app.
-- **Donny Wals**  The Testing Games: Mocking, yay!
-
----
-
-# Next meetup June 4th: WWDC
-![inline fit](../../Logos/Het_Parooltheater.jpg)
-
-- June 4th
-- Amsterdam
-- Doors open 18.00
-- Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
-
----
-
-# New sponsors: Instabug & TSH 
 ![inline fit](../../Logos/Instabug_Logo.png)
 ![inline fit](../../Logos/TSH_vertical_logo_black.png)
+
+
+---
+
+![autoplay mute](https://www.youtube.com/watch?v=XIneMQ6AQTc)
+
+---
+
+![inline fit](CocoaHeadsNL-2.png)![inline fit](CocoaHeadsNL-3.png)
+
+---
+
+### promo code
+# *************
+### $150 Instabug credits
+#### Instabug.com
+
+---
+
+## Agenda for today
+
+# 19:00 WWDC Keynote
+
+
+---
+
+# Next meetup July 18th: ANWB
+![inline fit](../../Logos/Het_Parooltheater.jpg)
+
+- July 18th
+- Den Haag
+- Doors open 18.00
+- Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
 
 ---
 
