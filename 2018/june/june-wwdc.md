@@ -19,16 +19,18 @@ theme: Plain Jane, 0
 
 #sponsors
 
-![inline fit 60%](../../Logos/egeniq.pdf)![inline fit 60%](../../Logos/moneybird.png)
+<!-- ![inline fit 60%](../../Logos/egeniq.pdf)![inline fit 60%](../../Logos/moneybird.png)
 ![inline fit 80%](../../Logos/logo-nyon_black_website.png)
+![inline fit 70%](../../Logos/payconiq.pdf)![inline fit 200%](../../Logos/achmea.jpg) -->
+![inline fit 60%](../../Logos/egeniq.pdf)![inline fit 60%](../../Logos/moneybird.png)
+![inline fit 300%](../../Logos/xebia.pdf)![inline fit 80%](../../Logos/logo-nyon_black_website.png)
 ![inline fit 70%](../../Logos/payconiq.pdf)![inline fit 200%](../../Logos/achmea.jpg)
 
 ---
 
-#A special thanks for today's sponsor:
+#A special thanks for today's sponsors:
 
-![inline fit](../../Logos/Instabug_Logo.png)
-![inline fit](../../Logos/TSH_vertical_logo_black.png)
+![inline fit](../../Logos/TSH_vertical_logo_black.png) ![inline fit](../../Logos/Instabug_Logo.png)
 
 
 ---
