@@ -44,7 +44,7 @@ theme: Plain Jane, 0
 ---
 
 ### promo code
-# *************
+# InstabugLovesNL
 ### $150 Instabug credits
 #### Instabug.com
 
