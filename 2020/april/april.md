@@ -18,34 +18,33 @@ theme: Plain Jane, 0
 ---
 
 # Sponsors
-
-![inline fit 40%](../../Logos/egeniq.pdf)![inline fit 40%](../../Logos/parkmobile.png)
-![inline fit 40%](../../Logos/abnamro.png)![inline fit 200%](../../Logos/achmea.jpg) ![inline fit 30%](../../Logos/q42.png)
+![inline fit](../../Logos/jetbrains.png) ![inline fit 40%](../../Logos/egeniq.pdf) ![inline fit 40%](../../Logos/parkmobile.png)
+![inline fit 40%](../../Logos/abnamro.png) ![inline fit 200%](../../Logos/achmea.jpg) ![inline fit 30%](../../Logos/q42.png)
 ![inline fit](../../Logos/getaround.png) ![inline fit 70%](../../Logos/anwb400.png) ![inline fit](../../Logos/moneybird-logo-full-blue.png)
 
 
 ---
 
-#A special thanks for today's sponsor:
+![fit](../../Logos/jetbrains.png)
+# Win a JetBrains product coupon code
 
-![inline fit](../../Logos/M2.png)
+### Join us on Slack in #meetups and enter the raffle.
+
+## Slack invite link: https://bit.ly/2zetXaO
 
 ---
 
 # Agenda for today
 
-- **Lammert Westerhoff** Building a native iOS app by both mixing Swift and Kotlin
-- **Jeroen Leenarts** Building iOS apps with Github Actions
+- **Josh Holtz** Implementing fastlane from nothing to App Store
+
 
 ---
 
-# Next meetup February: Triple Alkmaar
-![inline fit](../../Logos/triple.png)
+# Next meetup:
 
-- February 19
-- Amsterdam
-- Doors open 18.00
-- Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
+- Online
+- More info and announcement soon: check our app or on meetup.com (http://bit.ly/cocoaheadsnl)
 
 ---
 
