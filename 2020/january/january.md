@@ -34,15 +34,15 @@ theme: Plain Jane, 0
 
 # Agenda for today
 
+- **Lammert Westerhoff** Building a native iOS app by both mixing Swift and Kotlin
 - **Jeroen Leenarts** Building iOS apps with Github Actions
-- **Lammert Westerhof** Building a native iOS app by both mixing Swift and Kotlin
 
 ---
 
 # Next meetup February: Triple Alkmaar
 ![inline fit](../../Logos/triple.png)
 
-- February
+- February 19
 - Amsterdam
 - Doors open 18.00
 - Details: our app or on meetup.com (http://bit.ly/cocoaheadsnl)
