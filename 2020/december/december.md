@@ -51,7 +51,7 @@ Discover what is possible with the system iOS framework and what you need to add
 
 ## January 20th
 
-A talk by one of the developers or our new Silver sponsor
+A talk by one of the developers of our new Silver sponsor
 
 ![inline fit 30%](../../Logos/ns.jpg)
 
@@ -61,7 +61,7 @@ A talk by one of the developers or our new Silver sponsor
 
 - Did you download the Apple TV App yet?: cocoaheads.nl/videos
 - Subscribe on YouTube: https://youtube.com/stichtingcocoaheadsnl
-- New jobs on the board: cocoaheads.nl/jobs
+- New jobs on the board: https://cocoaheads.nl/jobs
 - Sign up to our newsletter at https://cocoaheads.nl
 
 See you next time!
