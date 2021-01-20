@@ -27,24 +27,24 @@
 ---
 
 #Locations & partners
-![inline fit](../../2015/april/minddistrict.eps)
-![inline fit 15%](../../2015/may/backbase.eps)
-![inline fit](../../2015/april/blendle.eps) 
+![inline fit](../../2015/04/minddistrict.eps)
+![inline fit 15%](../../2015/05/backbase.eps)
+![inline fit](../../2015/04/blendle.eps) 
 ![inline fit](../../Logos/KnowledgeMile_Logo.png)
-![inline fit](../../2015/march/booking.png)
+![inline fit](../../2015/03/booking.png)
 
 ---
 
 #Locations & partners
 ![inline fit](../../Logos/ACICE.png) ![inline fit](../../Logos/highstreet.png) ![inline fit](../../Logos/noodlewerk.png)
-![inline fit](../../Logos/searcle-logo.png) ![inline fit](../../2015/april-daniel-steinberg/nu-logo.eps)
+![inline fit](../../Logos/searcle-logo.png) ![inline fit](../../2015/04-daniel-steinberg/nu-logo.eps)
  
 
 ---
 
 #Locations & partners
 ![inline fit 200%](../../Logos/do-ios400x400.png)
-![inline fit 60%](../../2015/april-daniel-steinberg/xebicon-logo.png)
+![inline fit 60%](../../2015/04-daniel-steinberg/xebicon-logo.png)
 ![inline fit 90%](../../Logos/mdevcon2015.png)
 ![inline fit](../../Logos/dotswift.png)
 
