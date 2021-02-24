@@ -46,7 +46,7 @@ The creator Ryan will take us through creating a blackbox challenge combining an
 
 # Next time
 
-## Probably March 17
+## Probably March 24
 
 Keep an eye on our Meetup page for announcement.
 
