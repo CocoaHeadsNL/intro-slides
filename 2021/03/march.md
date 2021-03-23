@@ -47,18 +47,18 @@ theme: Plain Jane, 0
 
 # Agenda for today
 
-###**From paper to AudioKit: teaching math through sound - Jaap Mengers**
+## **From paper to AudioKit**
+### Teaching math through sound - Jaap Mengers
 
-Jaap shares the story of SenseMath: an app that lets you hear - rather than see or feel - a graph. A story about sound design, advanced VoiceOver features, and user testing in times of corona.
+Jaap shares the story of SenseMath: an app that lets you hear - rather than see or feel - a graph. A story about sound design, advanced VoiceOver features, and user testing in times of Corona.
 
 ---
 
 # Next time
 
-## April
+## 21 April 2021
 
-Keep an eye on our Meetup page for announcement.
-
+### Keep an eye on our Meetup page and social media channels for more details on the talk.
 
 ---
 
