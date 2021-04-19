@@ -36,15 +36,6 @@ theme: Plain Jane, 0
 
 ---
 
-![fit](../../Logos/rocketsim-app-icon.png)
-# Win a RocketSim AppStore code
-
-### Join us on Slack in #meetups and enter the raffle.
-
-## Slack invite link: https://bit.ly/2zetXaO
-
----
-
 # Agenda for today
 
 ## **Architecture considered harmful**
