@@ -39,7 +39,7 @@ theme: Plain Jane, 0
 # Agenda for today
 
 ## **Firebase for Apple developers**
-### Creating modern applications on Apple's platforms using SwiftUI and Firebase - Pieter Friese
+### Creating modern applications on Apple's platforms using SwiftUI and Firebase - Peter Friese
 
 You should leave this session with a deeper understanding of what Firebase is and how you can use it your apps on Apple’s platforms.
 
