@@ -45,16 +45,17 @@ theme: Plain Jane, 0
 
 # Next time
 
-## January 19th, 2022
+## 19 January 2022
 
-### Keep an eye on our Meetup page<br>and social media channels for our next months' meetup with Jeroen Bakker!
+### Keep an eye on our Meetup page and<br>social media channels for our next month's meetup<br>with Jeroen Bakker!
 
 ---
 
 # Reminder
 
 - Download the Apple TV App: https://cocoaheads.nl/videos
-- Subscribe on YouTube: https://youtube.com/stichtingcocoaheadsnl
+- Subscribe on YouTube:
+https://youtube.com/stichtingcocoaheadsnl
 - New jobs on the board: https://cocoaheads.nl/jobs
 - Sign up to our newsletter at https://cocoaheads.nl
 
