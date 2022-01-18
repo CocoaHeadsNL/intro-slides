@@ -56,7 +56,8 @@ theme: Plain Jane, 0
 # Reminder
 
 - Download the Apple TV App: https://cocoaheads.nl/videos
-- Subscribe on YouTube: https://youtube.com/stichtingcocoaheadsnl
+- Subscribe on YouTube:
+https://youtube.com/stichtingcocoaheadsnl
 - New jobs on the board: https://cocoaheads.nl/jobs
 - Sign up to our newsletter at https://cocoaheads.nl
 
