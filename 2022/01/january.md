@@ -43,6 +43,15 @@ theme: Plain Jane, 0
 
 ---
 
+# Do you want to give a talk?
+
+## Did you implement a nice new feature?  Or did you learn a new framework or a set of APIs? Give a talk about it!
+
+###Contact any of the CocoaHeadsNL Team members:
+####Jeroen Leenarts: @jeroen (jeroen@cocoaheads.nl)<br>Bart Hoffman: @bart (bart@cocoaheads.nl)<br>Marco Miltenburg: @marco (marco@cocoaheads.nl)<br>Jolanda Arends: @joya (jolanda@cocoaheads.nl)
+
+---
+
 # Next time
 
 ### The CocoaHeadsNL team is looking for people that like to do a talk at an upcoming meetup. 
