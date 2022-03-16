@@ -15,7 +15,7 @@ theme: Plain Jane, 0
 
 # Sponsors
 
- ![inline fit 200%](../../Logos/achmea.jpg) ![inline fit 30%](../../Logos/ns.jpg)
+![inline fit 200%](../../Logos/Stream-Official.png) ![inline fit 30%](../../Logos/ns.jpg)
 
 ![inline fit 30%](../../Logos/egeniq.pdf) ![inline fit 30%](../../Logos/abnamro.png)
 ![inline fit 15%](../../Logos/moneybird-logo-full-blue.png) ![inline fit 5%](../../Logos/jetbrains.png)
@@ -38,26 +38,36 @@ theme: Plain Jane, 0
 
 # Agenda for today
 
-## **Accessibility snapshots**
-#### but not the ones you’re thinking of
-### by Tikitu de Jager
+## **Async Await**<br>_awaiting details_
+## Catch up with other people after two years online**
 
-I’ll show a test utility that lets us refactor our view layer with confidence that we haven’t broken VoiceOver support, even in complex custom layouts.
+
+---
+
+# Do you want to give a talk?
+
+## Did you implement a nice new feature?  Or did you learn a new framework or a set of APIs? Give a talk about it!
+
+###Contact any of the CocoaHeadsNL Team members:
+####Jeroen Leenarts: @jeroen (jeroen@cocoaheads.nl)<br>Bart Hoffman: @bart (bart@cocoaheads.nl)<br>Marco Miltenburg: @marco (marco@cocoaheads.nl)<br>Jolanda Arends: @joya (jolanda@cocoaheads.nl)
 
 ---
 
 # Next time
 
-## July 2021
+### The CocoaHeadsNL team is looking for people that like to do a talk at an upcoming meetup. 
 
-### Keep an eye on our Meetup page and social media channels for our next months' meetup.
+## April, 2022
+
+### Keep an eye on our Meetup page<br>and social media channels for our next months' meetup!
 
 ---
 
 # Reminder
 
-- Did you download the Apple TV App yet?: cocoaheads.nl/videos
-- Subscribe on YouTube: https://youtube.com/stichtingcocoaheadsnl
+- Download the Apple TV App: https://cocoaheads.nl/videos
+- Subscribe on YouTube:
+https://youtube.com/stichtingcocoaheadsnl
 - New jobs on the board: https://cocoaheads.nl/jobs
 - Sign up to our newsletter at https://cocoaheads.nl
 
