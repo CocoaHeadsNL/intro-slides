@@ -38,8 +38,8 @@ theme: Plain Jane, 0
 
 # Agenda for today
 
-## **Async Await**<br>_awaiting details_
-## Catch up with other people after two years online**
+## **Async Await**<br>Jeroen Bakker
+### Catch up with other people after two years online
 
 
 ---
@@ -55,11 +55,10 @@ theme: Plain Jane, 0
 
 # Next time
 
-### The CocoaHeadsNL team is looking for people that like to do a talk at an upcoming meetup. 
+# 20 April 2022
+## SPS, Reeuwijk (near Gouda) 
 
-## April, 2022
-
-### Keep an eye on our Meetup page<br>and social media channels for our next months' meetup!
+### Keep an eye on our Meetup page<br>and social media channels for more information.
 
 ---
 
