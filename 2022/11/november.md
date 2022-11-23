@@ -1,5 +1,5 @@
 theme: Plain Jane, 0
- ![fit 150%](../../Logos/CocoaHeadsNL.pdf)
+ ![fit](../../Logos/CocoaHeadsNL.pdf)
 
 ---
 
@@ -15,7 +15,7 @@ theme: Plain Jane, 0
 
 # Sponsors
 
-![inline fit 200%](../../Logos/stream.svg) ![inline fit 30%](../../Logos/ns.jpg) ![inline fit 20%](../../Logos/firebase_vertical.png)
+![inline fit 200%](../../Logos/stream.svg) ![inline fit 20%](../../Logos/ns.jpg) ![inline fit 25%](../../Logos/firebase_vertical.png)
 
 ![inline fit 30%](../../Logos/egeniq.pdf) ![inline fit 30%](../../Logos/abnamro.png)
 ![inline fit 15%](../../Logos/moneybird-logo-full-blue.png) ![inline fit 5%](../../Logos/jetbrains.png)
@@ -27,25 +27,28 @@ theme: Plain Jane, 0
 
 ---
 
-![fit](../../Logos/jetbrains.png)
+![left 25%](../../Logos/jetbrains.png)
 # Win a JetBrains product coupon code
 
-### Join us on Slack in #meetups and enter the raffle.
+### Join us on Slack in #meetups<br>and enter the raffle.
 
-## Slack invite link: https://bit.ly/2zetXaO
+## Slack invite link: <br>https://bit.ly/2zetXaO
+
+![inline 20%](../../Images/slack-invite-qrcode.png)
 
 ---
 
-#A special thanks for today's sponsor:
+#A special thanks to today's sponsor:
 
-![inline fit](../../Logos/pinch.png)
+![inline fit 50%](../../Logos/pinch.png)
 
 
 ---
 
 # Agenda for today
 
-- **Daan van de Westelaken** Screenshot testing in a multi-brand app
+- **Daan van de Westelaken**
+Screenshot testing in a multi-brand app
 
 ---
 
@@ -60,9 +63,7 @@ theme: Plain Jane, 0
 
 # Next time
 
-### The CocoaHeadsNL team is looking for people that like to do a talk at an upcoming meetups. 
-
-## December, 2022
+## December 2022
 
 # Drinks
 
@@ -73,8 +74,7 @@ theme: Plain Jane, 0
 # Reminder
 
 - Download the Apple TV App: https://cocoaheads.nl/videos
-- Subscribe on YouTube:
-https://youtube.com/stichtingcocoaheadsnl
+- Subscribe on YouTube: https://youtube.com/@CocoaHeadsNL
 - New jobs on the board: https://cocoaheads.nl/jobs
 - Sign up to our newsletter at https://cocoaheads.nl
 
