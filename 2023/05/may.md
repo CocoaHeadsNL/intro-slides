@@ -27,17 +27,6 @@ theme: Plain Jane, 0
 
 ---
 
-![left 25%](../../Logos/jetbrains.png)
-# Win a JetBrains product coupon code
-
-### Join us on Slack in #meetups<br>and enter the raffle.
-
-## Slack invite link: <br>https://bit.ly/2zetXaO
-
-![inline 20%](../../Images/slack-invite-qrcode.png)
-
----
-
 #A special thanks to today's sponsor:
 
 ![inline fit 50%](../../Logos/maxdoro.png)
