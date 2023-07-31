@@ -50,23 +50,23 @@ Tom Lokhorst
 
 ---
 
-# Next time
-
-# 20 September 2023
-
-## Q42, The Hague
-
-### See our Meetup page for details.
-
----
-
-# Maybe... Not yet announced
+# Next time (not yet announced)
 
 # 23 August 2023
 
 ## Stream, Amsterdam
 
 ### Keep an eye on our Meetup page for updates.
+
+---
+
+# Next time (announced)
+
+# 20 September 2023
+
+## Q42, The Hague
+
+### See our Meetup page for details.
 
 ---
 
